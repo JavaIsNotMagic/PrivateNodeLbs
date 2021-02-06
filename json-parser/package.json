@@ -1,0 +1,22 @@
+{
+  "name": "@javaisnotmagic/json-parser",
+  "version": "1.0.8",
+  "description": "Parse json documents into key,value pairs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/JavaIsNotMagic/PrivateNodeLbs.git"
+  },
+  "keywords": [
+    "json"
+  ],
+  "author": "Connor Tozer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JavaIsNotMagic/PrivateNodeLbs/issues"
+  },
+  "homepage": "https://github.com/JavaIsNotMagic/PrivateNodeLbs#readme"
+}
